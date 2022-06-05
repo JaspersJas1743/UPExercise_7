@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\bin\Debug\net6.0-windows\Задание №7.exe
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\bin\Debug\net6.0-windows\Задание №7.deps.json
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\bin\Debug\net6.0-windows\Задание №7.runtimeconfig.json
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\bin\Debug\net6.0-windows\Задание №7.dll
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\bin\Debug\net6.0-windows\ref\Задание №7.dll
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\bin\Debug\net6.0-windows\Задание №7.pdb
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7_MarkupCompile.cache
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7_MarkupCompile.lref
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\App.baml
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7.g.resources
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7.AssemblyInfo.cs
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7.dll
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\ref\Задание №7.dll
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7.pdb
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Задание №7.genruntimeconfig.cache
+C:\Users\user\Desktop\2 курс\Учебная практика\Прикладное программирование\Задание №7\obj\Debug\net6.0-windows\Theme\Theme.baml
